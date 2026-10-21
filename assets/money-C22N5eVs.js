@@ -1,0 +1,1 @@
+import{j as n,M as r,m as a}from"./index-Beuz8zAr.js";function m({value:t,className:e,showCents:s}){return n.jsx("span",{className:a("tabular-nums",t.cents<0&&"text-destructive",e),children:r(t,s===void 0?{}:{showCents:s})})}export{m as M};

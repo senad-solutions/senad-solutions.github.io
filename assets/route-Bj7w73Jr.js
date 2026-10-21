@@ -1,1 +1,0 @@
-import{j as r,l as n,B as t}from"./index-CwF8Ov9s.js";const a=({error:o,reset:s})=>r.jsx(n,{className:"m-4",description:o instanceof Error?o.message:"This screen could not be loaded.",action:r.jsx(t,{onClick:s,children:"Try again"})});export{a as errorComponent};

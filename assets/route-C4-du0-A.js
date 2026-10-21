@@ -1,1 +1,0 @@
-import{j as t,l as o,B as s}from"./index-CwF8Ov9s.js";function i({error:r,reset:n}){return t.jsx(o,{className:"m-4",description:r instanceof Error?r.message:String(r),action:t.jsx(s,{onClick:n,children:"Try again"})})}export{i as errorComponent};
