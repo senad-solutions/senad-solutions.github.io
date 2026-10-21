@@ -1,0 +1,1 @@
+import{g as r}from"./index-CwF8Ov9s.js";import{u as s}from"./live-BqiBzSK8.js";function i(){return s(async()=>Object.fromEntries((await r.users.toArray()).map(a=>[a.id,a.displayName])),[],{})}function o(){return s(async()=>(await r.users.where("portal").equals("staff").toArray()).filter(a=>a.active),[],[])}export{o as a,i as u};

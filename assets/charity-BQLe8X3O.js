@@ -1,0 +1,1 @@
+import{C as o}from"./charity-page-BNKHnI1H.js";import"./index-CwF8Ov9s.js";import"./accounting-CJr6Zw_g.js";import"./data-table-DXtopLXN.js";import"./key-value-D8k_5Oc8.js";import"./money-CGwX6fpP.js";import"./card-COIo2aVp.js";import"./live-BqiBzSK8.js";import"./format-pmpqkIgp.js";import"./strings-YXAbPMNu.js";import"./i18n-BZmZ_B37.js";const f=o;export{f as component};

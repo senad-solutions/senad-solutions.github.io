@@ -1,0 +1,1 @@
+import{q as n,g as u}from"./index-CwF8Ov9s.js";import{u as o}from"./live-BqiBzSK8.js";function r(){const t=n(),i=o(async()=>t?.subjectId?await u.institutions.get(t.subjectId)??null:null,[t?.subjectId]);if(!(t===void 0||i===void 0))return!t||t.portal!=="institution"||!t.institutionRole||!i?null:{user:t,institution:i,role:t.institutionRole}}export{r as u};
